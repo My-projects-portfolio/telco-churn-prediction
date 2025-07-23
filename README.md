@@ -140,8 +140,8 @@ telco-churn-prediction/
 
 ## ✍️ Author
 
-**Nafiseh** – RMIT University  
-*PhD Candidate | Machine Learning & Data Science*
+**Nafiseh** 
+* Machine Learning & Data Science*
 
 ---
 
